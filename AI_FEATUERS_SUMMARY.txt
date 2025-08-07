@@ -1,0 +1,19 @@
+AI FEATURES SUMMARY:-
+
+For Task 2 of the Future Interns Prompt Engineering Internship, I created a personal AI portfolio website titled “Barri Jayanth – Aspiring Full-Stack Developer | AI Innovator” using AI-powered no-code tools. The project involved showcasing my skills, projects, and services with the help of AI-generated content and designs.
+
+🔹 Tools & AI Features Used:
+ChatGPT (OpenAI): Used extensively for generating written content across the website, including the About, Projects, Skills, and Services sections. It helped me craft clear, professional, and engaging descriptions tailored to my goals.
+
+Lovable: An AI-powered website builder used to design and publish the entire portfolio. It offered smart layout suggestions and pre-built blocks that saved time and ensured a modern, mobile-responsive design.
+
+Bribble (Template Inspiration): I explored website templates on Bribble to gather layout and design ideas, which I then adapted using Lovable’s AI features. This helped in creating a visually appealing and structured portfolio.
+
+Veed.io (AI Screen Recorder): Used to record the screen walkthrough of my portfolio website. It allowed me to capture both the screen and my voice directly from the browser without any installation, making the process fast and beginner-friendly.
+
+🔹 Project Highlights:
+The website presents my personal brand as an aspiring full-stack developer with an interest in AI innovation.
+
+AI tools assisted in content creation, website design, and video recording, eliminating the need for manual coding or complex editing tools.
+
+The project demonstrates how no-code AI tools can empower individuals to build professional digital products efficiently.
